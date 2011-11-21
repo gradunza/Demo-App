@@ -26,7 +26,7 @@ gem 'jquery-rails'
 
 # Deploy with Capistrano
 # gem 'capistrano'
-
+gem 'pg'
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
 
